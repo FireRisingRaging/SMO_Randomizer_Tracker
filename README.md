@@ -31,7 +31,7 @@ After you've opened the tracker, getting started is very easy!
 - Hit the "Open OBS Overlay" button to open a convenient window to capture into OBS
 - Hit "Toggle OBS BG" to turn the background of the window to a bright green that can be color keyed!
 > [!TIP]
-> Through our testing, the best result is leaving this green screen off and instead color keying the hex code #161616. This color is the color of the gray background.
+> Through our testing, the best result is leaving this green screen off and instead color keying the hex code #161616. This color is the color of the gray background. You can however adjust the OBS overlay background to whatever color you'd like
 
 - Pressing the "Clear" button will reset the tracker
 - Hit the "Notes" button to open another window that allows you to freely track sub-area loads and chains (you can also track the moons of each sub-area here too!)
